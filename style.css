@@ -1,0 +1,35 @@
+body{
+    background-image: url("image/ocean.jpg");
+    background-size: cover;
+}
+
+#gsearch{
+    height: 40px;
+    width:500px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#gsearch:hover{
+    cursor: pointer;
+}
+
+#gm{
+    margin-right: auto;
+}
+
+#fc{
+    margin-right: auto;
+    border: 12px solid white;
+}
+
+#yt{
+    margin-right: auto;
+    border: 12px solid white;
+}
+
+  button {
+    cursor: pointer;
+    width: 44px;
+    height: 50px;
+    margin-right: 20px;
+  }
